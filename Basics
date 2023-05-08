@@ -10,6 +10,7 @@ Select *
 From customers
 Where first_name='Ines';
 
+
 Select * 
 From orders
 Where shipper_id=4;
